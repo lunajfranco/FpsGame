@@ -1,2 +1,2 @@
 # FpsGame
-Building a fps game whit unity
+Building a fps game with unity
